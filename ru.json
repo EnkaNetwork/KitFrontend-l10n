@@ -1,18 +1,18 @@
 {
-	"title": "Genshin Impact<br>player cards.<br>Upgraded.",
-	"subtitle": "Fetch data from your Character Showcase and display a build card, instantly.",
-	"enter_uid": "Enter UID...",
-	"refresh": "Refresh",
-	"in_time": "In {{time}}",
-	"export_image": "Export image",
-	"uid_whitelist": "This UID needs to be whitelisted<br>for beta-testing.",
-	"uid_1": "To join the beta test, you can become a supporter on Patreon.<br>You'll be able to view your in-game Character Showcase and send the link to others so they can view your profile.",
-	"uid_2": "After the full version releases, supporters will have access to further beta-test features, such as unique short links.",
-	"beta_join": "Join beta",
-	"beta_example": "See an example",
-	"try_again": "Try again?",
+	"title": "Карточки персонажей<br>Genshin Impact.<br>Но ещё проще.",
+	"subtitle": "Запрос данных из витрины персонажей и генерация карточек персонажа - моментально.",
+	"enter_uid": "Ваш UID...",
+	"refresh": "Обновить",
+	"in_time": "Через {{time}}",
+	"export_image": "Сделать снимок",
+	"uid_whitelist": "UID нужно добавить в список бета-теста.",
+	"uid_1": "Чтобы присоединиться к бета-тесту, вы можете подписаться на Patreon. <br>Сейчас в бета-тесте доступен просмотр вашей витрины и генерация карточек персонажей - также можно будет отправить вашу ссылку на профиль кому угодно.",
+	"uid_2": "После того, как бета-тест закончится, подписчики будут иметь доступ к дальнейшим возможностям бета-теста, а также возможность создать свою личную ссылку.",
+	"beta_join": "Присоединиться",
+	"beta_example": "Посмотреть пример",
+	"try_again": "Попробовать еще раз?",
 	"profile": {
-		"closed": "Please enable the \"Show Character Details\" option in your Character Showcase in-game to see the details.",
-		"no_characters": "No characters found in the Character Showcase."
+		"closed": "Пожалуйста, включите опцию \"Показать детали персонажей\" под вашей витриной персонажей в игре, чтобы увидеть детали.",
+		"no_characters": "Не найдено персонажей на витрине."
 	}
 }

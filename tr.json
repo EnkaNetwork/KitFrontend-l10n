@@ -5,14 +5,14 @@
 	"refresh": "Yenile",
 	"in_time": "{{time}} içinde",
 	"export_image": "Resmi dışarı aktar",
-	"uid_whitelist": "This UID needs to be whitelisted<br>for beta-testing.",
-	"uid_1": "To join the beta test, you can become a supporter on Patreon.<br>You'll be able to view your in-game Character Showcase and send the link to others so they can view your profile.",
-	"uid_2": "After the full version releases, supporters will have access to further beta-test features, such as unique short links.",
-	"beta_join": "Join beta",
-	"beta_example": "See an example",
-	"try_again": "Try again?",
+	"uid_whitelist": "Bu UID'nin beta testi için beyaz listeye<br>alınması gerekiyor.",
+	"uid_1": "Beta testine katılmak için Patreon'da destekçi olabilirsiniz.<br>Oyun içi Karakter Vitrininizi görüntüleyebilir ve profilinizi görstermek için bağlantıyı başkalarına gönderebilirsiniz.",
+	"uid_2": "Tam sürümün yayınlanmasından sonra, destekçiler eşsiz kısa linkler gibi birçok gelecek beta özelliğine erişme hakkı elde edecekler.",
+	"beta_join": "Betaya katıl",
+	"beta_example": "Bir örneğe bakın",
+	"try_again": "Tekrar dene?",
 	"profile": {
-		"closed": "Please enable the \"Show Character Details\" option in your Character Showcase in-game to see the details.",
-		"no_characters": "No characters found in the Character Showcase."
+		"closed": "Ayrıntıları görmek için lütfen oyun içi Karekter Vitrininizdeki \"Karakter Ayrıntılarını Göster\" seçeneğini etkinleştirin.",
+		"no_characters": "Karakter Vitrininde hiçbir karakter bulunamadı."
 	}
 }

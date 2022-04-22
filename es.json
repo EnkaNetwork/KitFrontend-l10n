@@ -1,18 +1,18 @@
 {
-	"title": "Genshin Impact<br>player cards.<br>Upgraded.",
-	"subtitle": "Fetch data from your Character Showcase and display a build card, instantly.",
-	"enter_uid": "Enter UID...",
-	"refresh": "Refresh",
-	"in_time": "In {{time}}",
-	"export_image": "Export image",
-	"uid_whitelist": "This UID needs to be whitelisted<br>for beta-testing.",
-	"uid_1": "To join the beta test, you can become a supporter on Patreon.<br>You'll be able to view your in-game Character Showcase and send the link to others so they can view your profile.",
-	"uid_2": "After the full version releases, supporters will have access to further beta-test features, such as unique short links.",
-	"beta_join": "Join beta",
-	"beta_example": "See an example",
-	"try_again": "Try again?",
+	"title": "Tarjetas de Equipamiento<br>de Genshin Impact<br>Mejorado.",
+	"subtitle": "Obtén los datos de tu Exhibición de personajes y crea una tarjeta de equipamiento instantáneamente.",
+	"enter_uid": "Ingresa tu UID...",
+	"refresh": "Actualizar",
+	"in_time": "En {{time}}",
+	"export_image": "Exportar Imagen",
+	"uid_whitelist": "Esta UID necesita ser aprobada<br>para las pruebas de beta",
+	"uid_1": "Para unirte a las pruebas de la fase beta, puedes apoyarme en Patreon.<br>Podrás ver tu exhibición de personajes y mandar el enlace para que otros puedan ver tu perfil.",
+	"uid_2": "Después de que la versión final salga, los que estén suscritos en Patreon podrán acceder a más funciones beta, como links cortos únicos.",
+	"beta_join": "Unirse a la beta",
+	"beta_example": "Ver un ejemplo",
+	"try_again": "Re-intentar?",
 	"profile": {
-		"closed": "Please enable the \"Show Character Details\" option in your Character Showcase in-game to see the details.",
-		"no_characters": "No characters found in the Character Showcase."
+		"closed": "Por favor activa la opción de \"Personajes Mostrados\" en tu exhibición de personajes dentro del juego para ver los detalles.",
+		"no_characters": "No se encontraron personajes en tu exhibición de personajes."
 	}
 }

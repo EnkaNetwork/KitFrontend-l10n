@@ -1,18 +1,18 @@
 {
-	"title": "Genshin Impact<br>player cards.<br>Upgraded.",
-	"subtitle": "Fetch data from your Character Showcase and display a build card, instantly.",
-	"enter_uid": "Enter UID...",
-	"refresh": "Refresh",
-	"in_time": "In {{time}}",
-	"export_image": "Export image",
-	"uid_whitelist": "This UID needs to be whitelisted<br>for beta-testing.",
-	"uid_1": "To join the beta test, you can become a supporter on Patreon.<br>You'll be able to view your in-game Character Showcase and send the link to others so they can view your profile.",
-	"uid_2": "After the full version releases, supporters will have access to further beta-test features, such as unique short links.",
-	"beta_join": "Join beta",
-	"beta_example": "See an example",
-	"try_again": "Try again?",
+	"title": "Genshin Impact<br>cartes de builds.<br>Amélioré !",
+	"subtitle": "Récupérez les données de votre vitrine de personnages et affichez une carte de build instantanément.",
+	"enter_uid": "Entrez votre UID...",
+	"refresh": "Rafraîchir",
+	"in_time": "Dans {{time}}",
+	"export_image": "Exporter l'image",
+	"uid_whitelist": "Cet UID doit être autorisé<br>pour le test bêta.",
+	"uid_1": "Pour rejoindre le test bêta, vous pouvez devenir un supporter sur Patreon.<br>Vous pourrez voir votre présentation de vos personnages dans le jeu et envoyer le lien à d'autres personnes afin qu'elles puissent voir votre profil.",
+	"uid_2": "Après la sortie de la version complète, les supporters auront accès à d'autres fonctionnalités de test bêta, telles que des liens courts uniques.",
+	"beta_join": "Rejoindre le test bêta",
+	"beta_example": "Voir un exemple",
+	"try_again": "Réessayer ?",
 	"profile": {
-		"closed": "Please enable the \"Show Character Details\" option in your Character Showcase in-game to see the details.",
-		"no_characters": "No characters found in the Character Showcase."
+		"closed": "Veuillez activer l'option \"Afficher les infos de personnages\" dans les paramètres de votre vitrine depuis le jeu.",
+		"no_characters": "Aucun personnage trouvé dans la vitrine."
 	}
 }

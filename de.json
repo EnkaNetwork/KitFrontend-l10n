@@ -1,18 +1,18 @@
 {
-	"title": "Genshin Impact<br>Charakterkarten.<br>Aktualisiert.",
+	"title": "Genshin Impact<br>Charakterkarten.<br>Verbessert.",
 	"subtitle": "Rufe Daten deines Charakterschaukasten ab und lasse dir eine Charakterkarte anzeigen, sofort.",
 	"enter_uid": "UID eingeben...",
 	"refresh": "Aktualisieren",
 	"in_time": "In {{time}}",
 	"export_image": "Bild exportieren",
-	"uid_whitelist": "Diese UID muss für den Betatest in die Whitelist aufgenommen werden.",
-	"uid_1": "Um am Betatest teilzunehmen, kannst du ein Unterstützer auf Patreon werden.<br>Du kannst dann deinen In-Game Charakterschaukasten sehen und den Link an andere senden, damit sie dein Profil sehen können.",
+	"uid_whitelist": "Diese UID muss für den Betatest<br>in die Whitelist aufgenommen werden.",
+	"uid_1": "Um am Betatest teilzunehmen, werde ein Unterstützer auf Patreon.<br>Du kannst dann deinen In-Game Charakterschaukasten sehen und den Link an andere senden, damit sie dein Profil sehen können.",
 	"uid_2": "Nach der Veröffentlichung der Vollversion werden Unterstützer Zugang zu weiteren Beta-Test-Funktionen haben, wie z. B. einzigartige Kurzlinks.",
 	"beta_join": "Beta-Test beitreten",
 	"beta_example": "Beispiel ansehen",
-	"try_again": "Try again?",
+	"try_again": "Erneut versuchen?",
 	"profile": {
-		"closed": "Please enable the \"Show Character Details\" option in your Character Showcase in-game to see the details.",
-		"no_characters": "No characters found in the Character Showcase."
+		"closed": "Aktiviere \"Figurendetails anzeigen\" in deinem Charakterschakasten In-Game, damit diese angezeigt werden können.",
+		"no_characters": "Keine Charaktere im Schaukasten gefunden."
 	}
 }

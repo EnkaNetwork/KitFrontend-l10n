@@ -5,14 +5,14 @@
 	"refresh": "รีเฟรช",
 	"in_time": "ใช้งานได้ในอีก {{time}}",
 	"export_image": "ส่งออกเป็นรูปภาพ",
-	"uid_whitelist": "This UID needs to be whitelisted<br>for beta-testing.",
-	"uid_1": "To join the beta test, you can become a supporter on Patreon.<br>You'll be able to view your in-game Character Showcase and send the link to others so they can view your profile.",
-	"uid_2": "After the full version releases, supporters will have access to further beta-test features, such as unique short links.",
-	"beta_join": "Join beta",
-	"beta_example": "See an example",
-	"try_again": "Try again?",
+	"uid_whitelist": "UID ที่คุณระบุไม่ได้อยู่ใน<br>รายชื่อผู้ทดสอบ",
+	"uid_1": "คุณสามารถเข้าร่วมเป็นผู้ทดสอบได้โดยการสนับสนุนบน Patreon<br>คุณจะสามารถดูข้อมูลตัวละครจากตู้โชว์ตัวละครภายในเกมได้รวมถึงมีลิงก์ที่ลิงก์ไปยังหน้าข้อมูลตัวละครดังกล่าวและยังสามารถแชร์ให้กับเพื่อน ๆ ของคุณได้อีกด้วย!",
+	"uid_2": "หลังจากที่เราสิ้นสุดการทดสอบและเปิดให้ใช้งานอย่างเป็นทางการแล้ว ผู้สนับสนุนทั้งหมดจะมีสิทธิ์ที่จะเข้าร่วมการทดสอบอื่น ๆ ในอนาคต เช่น ลิงก์เข้าสู่หน้าการ์ดตัวละครของคุณโดยใช้ชื่อผู้ใช้",
+	"beta_join": "เข้าร่วมการทดสอบ",
+	"beta_example": "ดูตัวอย่าง",
+	"try_again": "ลองใหม่อีกครั้ง",
 	"profile": {
-		"closed": "Please enable the \"Show Character Details\" option in your Character Showcase in-game to see the details.",
-		"no_characters": "No characters found in the Character Showcase."
+		"closed": "โปรดเปิดใช้งานตัวเลือก \"แสดงรายละเอียดตัวละคร\" เพื่อแสดงรายละเอียดตัวละครจากตู้โชว์ตัวละครภายในเกม",
+		"no_characters": "ไม่พบตัวละครใด ๆ บนตู้โชว์ตัวละคร"
 	}
 }

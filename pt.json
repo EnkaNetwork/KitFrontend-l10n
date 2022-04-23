@@ -1,18 +1,18 @@
 {
-	"title": "Genshin Impact<br>player cards.<br>Upgraded.",
-	"subtitle": "Fetch data from your Character Showcase and display a build card, instantly.",
-	"enter_uid": "Enter UID...",
-	"refresh": "Refresh",
-	"in_time": "In {{time}}",
-	"export_image": "Export image",
-	"uid_whitelist": "This UID needs to be whitelisted<br>for beta-testing.",
-	"uid_1": "To join the beta test, you can become a supporter on Patreon.<br>You'll be able to view your in-game Character Showcase and send the link to others so they can view your profile.",
-	"uid_2": "After the full version releases, supporters will have access to further beta-test features, such as unique short links.",
-	"beta_join": "Join beta",
-	"beta_example": "See an example",
-	"try_again": "Try again?",
+	"title": "Cartões de jogador<br> de Genshin Impact.<br>Atualizado.",
+	"subtitle": "Busque dados do mostruário de seus personagens e exiba um cartão de equipamentos instantaneamente.",
+	"enter_uid": "Digite o UID...",
+	"refresh": "Atualizar",
+	"in_time": "Em {{time}}",
+	"export_image": "Exportar imagem",
+	"uid_whitelist": "Esta UID precisa estar na lista branca<br>para o teste beta.",
+	"uid_1": "Para participar do teste beta, você pode se tornar um apoiador no Patreon.<br>Você poderá ver o mostruário de seus personagens no jogo e enviar o link para outras pessoas para que elas possam ver seu perfil.",
+	"uid_2": "Após o lançamento da versão completa, os apoiadores terão acesso a outros recursos do teste beta, como links curtos exclusivos.",
+	"beta_join": "Juntar-se ao Beta",
+	"beta_example": "Veja um exemplo",
+	"try_again": "Tente novamente?",
 	"profile": {
-		"closed": "Please enable the \"Show Character Details\" option in your Character Showcase in-game to see the details.",
-		"no_characters": "No characters found in the Character Showcase."
+		"closed": "Por favor, ative a opção \"Mostrar detalhes do personagem\" no mostruário de seus personagens no jogo para ver os detalhes.",
+		"no_characters": "Nenhum personagem foi encontrado no mostruário"
 	}
 }

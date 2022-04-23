@@ -5,14 +5,14 @@
 	"refresh": "更新",
 	"in_time": "{{time}}後",
 	"export_image": "画像をエクスポート",
-	"uid_whitelist": "This UID needs to be whitelisted<br>for beta-testing.",
-	"uid_1": "To join the beta test, you can become a supporter on Patreon.<br>You'll be able to view your in-game Character Showcase and send the link to others so they can view your profile.",
-	"uid_2": "After the full version releases, supporters will have access to further beta-test features, such as unique short links.",
-	"beta_join": "Join beta",
-	"beta_example": "See an example",
-	"try_again": "Try again?",
+	"uid_whitelist": "このUIDはホワイトリストに<br>登録されていません。",
+	"uid_1": "βテストに参加するためには、Patreonサポーターになる必要があります。<br>ゲーム内のキャラクターラインナップのビルド紹介カードの作成機能と、リンク共有機能が利用できます。",
+	"uid_2": "フルリリース後には、サポーターは一般開放前のβ機能が利用できるようになります。",
+	"beta_join": "βテストに参加",
+	"beta_example": "例を見る",
+	"try_again": "再生成",
 	"profile": {
-		"closed": "Please enable the \"Show Character Details\" option in your Character Showcase in-game to see the details.",
-		"no_characters": "No characters found in the Character Showcase."
+		"closed": "「キャラクターラインナップ」の「キャラ詳細非表示」を「キャラ詳細表示中」に切り替えて下さい。",
+		"no_characters": "キャラクターラインナップにキャラが登録されていません。"
 	}
 }

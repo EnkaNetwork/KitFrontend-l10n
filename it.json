@@ -5,14 +5,14 @@
 	"refresh": "Ricarica",
 	"in_time": "In {{tempo}}",
 	"export_image": "Esporta immagine",
-	"uid_whitelist": "This UID needs to be whitelisted<br>for beta-testing.",
-	"uid_1": "To join the beta test, you can become a supporter on Patreon.<br>You'll be able to view your in-game Character Showcase and send the link to others so they can view your profile.",
-	"uid_2": "After the full version releases, supporters will have access to further beta-test features, such as unique short links.",
-	"beta_join": "Join beta",
-	"beta_example": "See an example",
-	"try_again": "Try again?",
+	"uid_whitelist": "Questo UID dev'essere inserito nella lista <br>per il beta-testing.",
+	"uid_1": "Per unirti al beta test, puoi diventare un sostenitore su Patreon.<br>Potrai vedere la tua Vetrina dei Personaggi dal gioco e mandare il link ad altre persone così che possano vedere il tuo profilo.",
+	"uid_2": "Dopo che sarà uscita la versione completa, i sostenitori avranno accesso ad ulteriori funzioni in beta-test, come ad esempio link corti univochi.",
+	"beta_join": "Unisciti alla beta",
+	"beta_example": "Vedi un esempio",
+	"try_again": "Prova un'altra volta?",
 	"profile": {
-		"closed": "Please enable the \"Show Character Details\" option in your Character Showcase in-game to see the details.",
-		"no_characters": "No characters found in the Character Showcase."
+		"closed": "Per favore attiva l'opzione \"Mostra Dettagli Personaggi\" nella tua Vetrina Personaggi nel gioco per vedere i dettagli.",
+		"no_characters": "Nessun personaggio trovato nella Vetrina Personaggi."
 	}
 }

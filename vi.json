@@ -10,9 +10,9 @@
 	"uid_2": "Sau khi ra mắt công chúng, các nhà bảo trợ qua Patreon sẽ có quyền truy cập vào nhiều tính năng thử nghiệm khác nữa, ví dụ như là đường link dẫn ngắn tuỳ theo ý thích.",
 	"beta_join": "Tham gia Beta",
 	"beta_example": "Xem ví dụ",
-	"try_again": "Try again?",
+	"try_again": "Thử lại?",
 	"profile": {
-		"closed": "Please enable the \"Show Character Details\" option in your Character Showcase in-game to see the details.",
-		"no_characters": "No characters found in the Character Showcase."
+		"closed": "Vui lòng bật \"Hiển thị chi tiết nhân vật\" từ Hồ Sơ trong game để xem chi tiết.",
+ 		"no_characters": "Không tìm thấy nhân vật nào từ Đội Hình Nhân Vật trong Hồ Sơ của bạn."
 	}
 }

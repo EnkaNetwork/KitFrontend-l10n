@@ -1,18 +1,18 @@
 {
-	"title": "Genshin Impact<br>player cards.<br>Upgraded.",
-	"subtitle": "Fetch data from your Character Showcase and display a build card, instantly.",
-	"enter_uid": "Enter UID...",
-	"refresh": "Refresh",
-	"in_time": "In {{time}}",
-	"export_image": "Export image",
-	"uid_whitelist": "This UID needs to be whitelisted<br>for beta-testing.",
-	"uid_1": "To join the beta test, you can become a supporter on Patreon.<br>You'll be able to view your in-game Character Showcase and send the link to others so they can view your profile.",
-	"uid_2": "After the full version releases, supporters will have access to further beta-test features, such as unique short links.",
-	"beta_join": "Join beta",
-	"beta_example": "See an example",
-	"try_again": "Try again?",
+	"title": "2.0 新版!<br>原神角色卡。",
+	"subtitle": "從您的角色展示櫃中讀取數據並立即顯示角色卡。",
+	"enter_uid": "輸入 UID...",
+	"refresh": "刷新",
+	"in_time": "{{time}} 後",
+	"export_image": "輸出圖像",
+	"uid_whitelist": "此 UID 需要被列入 beta 白名單以進行測試。",
+	"uid_1": "要加入 Beta 測試，您可以成為 Patreon 的支持者。<br>您將能夠查看您的遊戲內角色展示櫃並將鏈接發送給其他人，以便他們查看您的角色卡。",
+	"uid_2": "完整版發布後，支持者將可以測試更多的 Beta 測試功能，例如獨特的縮短鏈接。",
+	"beta_join": "加入 Beta 測試",
+	"beta_example": "查看示例",
+	"try_again": "再試一次？",
 	"profile": {
-		"closed": "Please enable the \"Show Character Details\" option in your Character Showcase in-game to see the details.",
-		"no_characters": "No characters found in the Character Showcase."
+		"closed": "請在遊戲中的角色展示櫃中開啟 「顯示角色詳情」 選項以查看詳細信息。",
+		"no_characters": "角色展示櫃中沒有顯示任何角色。"
 	}
 }

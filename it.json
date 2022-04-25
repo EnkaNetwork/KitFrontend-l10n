@@ -3,7 +3,7 @@
 	"subtitle": "Recupera dati dalla tua Vetrina Personaggi e mostra una scheda della build, instantaneamente.",
 	"enter_uid": "Inserisci UID...",
 	"refresh": "Ricarica",
-	"in_time": "In {{tempo}}",
+	"in_time": "In {{time}}",
 	"export_image": "Esporta immagine",
 	"uid_whitelist": "Questo UID dev'essere inserito nella lista <br>per il beta-testing.",
 	"uid_1": "Per unirti al beta test, puoi diventare un sostenitore su Patreon.<br>Potrai vedere la tua Vetrina dei Personaggi dal gioco e mandare il link ad altre persone così che possano vedere il tuo profilo.",

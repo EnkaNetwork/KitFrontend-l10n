@@ -2,6 +2,7 @@
 	"title": "Genshin Impact<br>Charakterkarten.<br>Vereinfacht.",
 	"subtitle": "Rufe Daten deines Charakterschaukasten ab und lasse dir eine Charakterkarte anzeigen, sofort.",
 	"enter_uid": "UID eingeben...",
+	"export_image": "Bild exportieren",
 	"refresh": "Aktualisieren",
 	"in_time": "In {{time}}",
 	"export_image": "Bild exportieren",
@@ -14,5 +15,10 @@
 	"profile": {
 		"closed": "Aktiviere In-Game \"Figurendetails anzeigen\" in deinem Charakterschaukasten, damit diese angezeigt werden können.",
 		"no_characters": "Keine Charaktere im Schaukasten vorhanden."
+	},
+	"card": {
+		"caption": "Benutzerdefinierter Text...",
+		"artSource": "Bildquelle",
+		"options": "Kartenoptionen"
 	}
 }

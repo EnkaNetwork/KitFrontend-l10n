@@ -1,18 +1,23 @@
 {
-	"title": "Schede delle build<br>di Genshin Impact Aggiornate.",
+	"title": "Schede delle build<br>di Genshin Impact.<br>Aggiornate.",
 	"subtitle": "Recupera dati dalla tua Vetrina Personaggi e mostra una scheda della build, instantaneamente.",
 	"enter_uid": "Inserisci UID...",
+	"export_image": "Esporta immagine",
 	"refresh": "Ricarica",
 	"in_time": "In {{time}}",
-	"export_image": "Esporta immagine",
 	"uid_whitelist": "Questo UID dev'essere inserito nella lista <br>per il beta-testing.",
-	"uid_1": "Per unirti al beta test, puoi diventare un sostenitore su Patreon.<br>Potrai vedere la tua Vetrina dei Personaggi dal gioco e mandare il link ad altre persone così che possano vedere il tuo profilo.",
-	"uid_2": "Dopo che sarà uscita la versione completa, i sostenitori avranno accesso ad ulteriori funzioni in beta-test, come ad esempio link corti univochi.",
+	"uid_1": "Se hai preso parte alla giornata di Open Beta Test, grazie! Il sito è tornato alla closed beta, quindi posso sistemare molte cose che ho trovato.<br />Se vuoi unirti, puoi diventare un sostenitore su Patreon.<br>Potrai vedere la tua Vetrina dei Personaggi dal gioco e mandare il link ad altre persone così che possano vedere il tuo profilo.",
+	"uid_2": "Dopo che sarà uscita la versione completa, i sostenitori avranno accesso ad ulteriori funzioni in beta-test, come ad esempio link corti univochi.<br><br>Segui <a href='https://twitter.com/ShinShinMoe'>Twitter</a> per gli aggiornamenti! La beta dovrebbe terminare all'inizio della 2.7".",
 	"beta_join": "Unisciti alla beta",
 	"beta_example": "Vedi un esempio",
 	"try_again": "Prova un'altra volta?",
 	"profile": {
 		"closed": "Per favore attiva l'opzione \"Mostra Dettagli Personaggi\" nella tua Vetrina Personaggi nel gioco per vedere i dettagli.",
 		"no_characters": "Nessun personaggio trovato nella Vetrina Personaggi."
+	},
+	"card": {
+		"caption": "Testo personalizzato...",
+		"artSource": "Fonte dell' arte",
+		"options": "Opzioni scheda"
 	}
 }

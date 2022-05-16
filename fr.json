@@ -14,5 +14,10 @@
 	"profile": {
 		"closed": "Veuillez activer l'option \"Afficher les infos de personnages\" dans les paramètres de votre vitrine depuis le jeu.",
 		"no_characters": "Aucun personnage trouvé dans la vitrine."
+	},
+	"card": {
+		"caption": "Texte personnalisé...",
+		"artSource": "Source Art",
+		"options": "Options de carte"
 	}
 }

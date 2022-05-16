@@ -17,7 +17,7 @@
 	},
 	"card": {
 		"caption": "Texte personnalisé...",
-		"artSource": "Source Art",
+		"artSource": "Source de l'art (si applicable)...",
 		"options": "Options de carte"
 	}
 }

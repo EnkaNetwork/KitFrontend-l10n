@@ -1,1 +1,24 @@
-
+{
+	"title": "Genshin Impact<br>PLATER kards.<br>Pinagbago.",
+	"subtitle": "Fetch data from your Character Showcase and display a build card, instantly.",
+	"enter_uid": "Enter UID...",
+	"export_image": "Export image",
+	"refresh": "Refresh",
+	"in_time": "In {{time}}",
+	"export_image": "Export image",
+	"uid_whitelist": "This UID needs to be whitelisted<br>for beta-testing.",
+	"uid_1": "If you've been a part of the Open Beta Test day, thank you! The site is back to closed beta so I can fix a lot of things I found.<br />If you want to join, you can become a supporter on Patreon.<br>You'll be able to view your in-game Character Showcase and send the link to others so they can view your profile.",
+	"uid_2": "After the full version releases, supporters will have access to further beta-test features, such as unique short links.<br><br>Follow the <a href='https://twitter.com/ShinShinMoe'>Twitter</a> for updates! The beta should end when 2.7 starts.",
+	"beta_join": "Join beta",
+	"beta_example": "See an example",
+	"try_again": "Try again?",
+	"profile": {
+		"closed": "Please enable the \"Show Character Details\" option in your Character Showcase in-game to see the details.",
+		"no_characters": "No characters found in the Character Showcase."
+	},
+	"card": {
+		"caption": "Custom text...",
+		"artSource": "Art source",
+		"options": "Card options"
+	}
+}

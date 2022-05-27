@@ -1,24 +1,24 @@
 {
-	"title": "Genshin Impact<br>PLAYER kards.<br>Pinagbago.",
-	"subtitle": "Fetch data from your Character Showcase and display a build card, instantly.",
-	"enter_uid": "Enter UID...",
-	"export_image": "Export image",
+	"title": ""Genshin Impact<br>PLATER kards.<br>Pinagbago",
+	"subtitle": "Kumuha ng datos mula sa iyong Character Showcase at magpakita kaagad ng build kard.",
+	"enter_uid": "Ilagay ang UID...",
+	"export_image": "I-eksport ang larawan",
 	"refresh": "Refresh",
-	"in_time": "In {{time}}",
-	"export_image": "Export image",
-	"uid_whitelist": "This UID needs to be whitelisted<br>for beta-testing.",
-	"uid_1": "If you've been a part of the Open Beta Test day, thank you! The site is back to closed beta so I can fix a lot of things I found.<br />If you want to join, you can become a supporter on Patreon.<br>You'll be able to view your in-game Character Showcase and send the link to others so they can view your profile.",
-	"uid_2": "After the full version releases, supporters will have access to further beta-test features, such as unique short links.<br><br>Follow the <a href='https://twitter.com/ShinShinMoe'>Twitter</a> for updates! The beta should end when 2.7 starts.",
-	"beta_join": "Join beta",
-	"beta_example": "See an example",
-	"try_again": "Try again?",
+	"in_time": "Sa {{oras}}",
+	"export_image": "I-eksport ang larawan",
+	"uid_whitelist": "Ang UID na ito ay kailangan i-whitelist<br>para sa  beta-testing.",
+	"uid_1": "Kung ikaw ay nakibahagi sa araw ng Open Beta Test, maraming salamat! Ang site na ito ay bumalik sa closed data upang maayos ko ang mga problema na nakita ko.<br /> Kung gusto mo sumali, maari kang sumuporta sa Patreon.<br> Maari mo makita ang iyong in-game Character Showcase at maipadala ang link sa iba para makita nila ang iyong profile.",
+	"uid_2": "Pagkatapos ng full version releases, ang mga sumusuporta ay magkakaroon ng akses sa iba pang beta-test features, katulad ng unique short links.<br><br>Sundan ang <a href='https://twitter.com/ShinShinMoe%27%3ETwitter</a> para sa mga pagbabago! Ang beta ay magtatapos kapag ang 2.7 ay nagsimula.",
+	"beta_join": "Sumali sa beta",
+	"beta_example": "Tumingin ng Halimbawa",
+	"try_again": "Umulit muli?",
 	"profile": {
-		"closed": "Please enable the \"Show Character Details\" option in your Character Showcase in-game to see the details.",
-		"no_characters": "No characters found in the Character Showcase."
+		"closed": "Paki-enable ang "Show Character Details" na opsyon sa iyong Character Showcase in-game para makita ang mga detalye.",
+		"no_characters": "Walang karakter na nakita Character Showcase."
 	},
 	"card": {
-		"caption": "Custom text...",
-		"artSource": "Art source",
-		"options": "Card options"
+		"caption": "Pasadyang teksto..",
+		"artSource": "Pinanggalingan ng sining",
+		"options": "Opsyon ng Kard"
 	}
 }

@@ -1,5 +1,5 @@
 {
-	"title": ""Genshin Impact<br>PLATER kards.<br>Pinagbago",
+	"title": "Genshin Impact<br>PLATER kards.<br>Pinagbago",
 	"subtitle": "Kumuha ng datos mula sa iyong Character Showcase at magpakita kaagad ng build kard.",
 	"enter_uid": "Ilagay ang UID...",
 	"export_image": "I-eksport ang larawan",
@@ -13,7 +13,7 @@
 	"beta_example": "Tumingin ng Halimbawa",
 	"try_again": "Umulit muli?",
 	"profile": {
-		"closed": "Paki-enable ang "Show Character Details" na opsyon sa iyong Character Showcase in-game para makita ang mga detalye.",
+		"closed": "Paki-enable ang \"Show Character Details\" na opsyon sa iyong Character Showcase in-game para makita ang mga detalye.",
 		"no_characters": "Walang karakter na nakita Character Showcase."
 	},
 	"card": {

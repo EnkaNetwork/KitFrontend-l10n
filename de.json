@@ -1,14 +1,13 @@
 {
 	"title": "Genshin Impact<br>Charakterkarten.<br>Vereinfacht.",
 	"subtitle": "Rufe Daten deines Charakterschaukasten ab und lasse dir eine Charakterkarte anzeigen, sofort.",
-	"enter_uid": "UID eingeben...",
+	"enter_uid": "UID eingeben",
 	"export_image": "Bild exportieren",
 	"refresh": "Aktualisieren",
-	"in_time": "In {{time}}",
-	"export_image": "Bild exportieren",
-	"uid_whitelist": "Diese UID muss für den Betatest auf<br>die Whitelist gesetzt werden.",
-	"uid_1": "Um am Betatest teilzunehmen, werde Unterstützer auf Patreon.<br>Du kannst dann deinen In-Game Charakterschaukasten sehen und dein Profil per Link mit anderen teilen.",
-	"uid_2": "Nach der Veröffentlichung der Vollversion werden Unterstützer Zugang zu weiteren Beta-Test-Funktionen haben, wie z. B. einzigartige Kurzlinks.",
+	"in_time": "Akualisiere in {{time}}",
+	"uid_whitelist": "Diese UID muss für den Betatest<br>auf die Whitelist gesetzt werden.",
+	"uid_1": "Falls du am Tag des offenen Betatests teilgenommen hast, danke ich dir! Die Seite ist jetzt wieder in der geschlossenen Beta, damit ich eine Menge Dinge, die ich gefunden habe, beheben kann.<br>Wenn du mitmachen willst, kannst du Unterstützer auf Patreon werden.<br>Du kannst dann deinen In-Game Charakterschaukasten sehen und dein Profil per Link mit anderen teilen.",
+	"uid_2": "Nach der Veröffentlichung der Vollversion werden Unterstützer Zugang zu weiteren Beta-Test-Funktionen haben, wie z. B. einzigartige Kurzlinks.<br><br>Folge uns auf <a href='https://twitter.com/ShinShinMoe'>Twitter</a> für Updates! Die Beta sollte enden, sobald 2.7 startet.",
 	"beta_join": "Beta-Test beitreten",
 	"beta_example": "Beispiel ansehen",
 	"try_again": "Erneut versuchen?",
@@ -17,8 +16,22 @@
 		"no_characters": "Keine Charaktere im Schaukasten vorhanden."
 	},
 	"card": {
-		"caption": "Benutzerdefinierter Text...",
+		"caption": "Benutzerdefinierter Text",
 		"artSource": "Bildquelle",
-		"options": "Kartenoptionen"
+		"art_credit": "Künstlernennung",
+		"options": "Kartenoptionen",
+		"settings": "Build-Einstellungen",
+		"export_settings": "Optionen für den Bildexport",
+		"build_profile_settings": "Kartenoptionen für dieses Profil"
+	},
+	"label": {
+		"is_uid_public": [
+			"UID öffentlich anzeigen",
+			"Deaktiviere dies, wenn du deine UID privat halten willst."
+		],
+		"is_public": [
+			"Für andere sichtbar",
+			"Zeige dieses Konto in deinem öffentlichen Profil."
+		]
 	}
 }

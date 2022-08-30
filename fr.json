@@ -16,8 +16,25 @@
 		"no_characters": "Aucun personnage trouvé dans la vitrine."
 	},
 	"card": {
-		"caption": "Texte personnalisé...",
-		"artSource": "Source de l'art (si applicable)...",
+		"caption": "Texte personnalisé",
+		"artSource": "Source du fanart",
+		"art_credit": "Texte...",
 		"options": "Options de carte"
+		"settings": "Options de build",
+		"export_settings": "Options de sauvegarde",
+		"build_profile_settings": "Options du profil de build"
+	},
+	"label": {
+		"is_uid_public": [
+			"Afficher l'UID",
+			"Désactivez si vous voulez garder votre UID privé."
+		],
+		"is_public": [
+			"Visible aux autres",
+			"Afficher ce compte sur votre profil public."
+		]
 	}
 }
+
+
+

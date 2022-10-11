@@ -16,3 +16,40 @@
  		"no_characters": "Không tìm thấy nhân vật nào từ Đội Hình Nhân Vật trong Hồ Sơ của bạn."
 	}
 }
+{
+	"title": "Khung hình trang bị<br>nhân vật Genshin Impact.<br>Bản nâng cấp.",
+	"subtitle": "Gom thông tin từ Đội Hình Nhân Vật trong Hồ Sơ của bạn và tự động tạo các khung hình trang bị nhanh chóng.",
+	"enter_uid": "Điền UID...",
+	"export_image": "Xuất file ảnh",
+	"refresh": "Làm mới trang",
+	"in_time": "Làm mới sau {{time}}",
+	"uid_whitelist": "UID này không có trong danh sách duyệt cho bản thử nghiệm beta.",
+	"uid_1": "Nếu bạn đã tham gia Ngày Thử nghiệm Beta công chúng, xin cảm ơn bạn! Trang web hiện đã trở lại thử nghiệm beta kín để tôi có thể sửa những thứ được tìm thấy.<br/>Nếu bạn muốn tham gia, bạn có thể trở thành người ủng hộ trên Patreon. <br> Bạn sẽ có thể xem thông tin Đội Hình Nhân Vật trong game của mình và gửi liên kết đến những người khác để họ có thể xem Hồ Sơ của bạn. "
+	"uid_2": "Sau khi ra mắt bản công chúng chính thức, những người ủng hộ sẽ có quyền truy cập vào các tính năng thử nghiệm beta khác, chẳng hạn như các liên kết ngắn độc nhất.<br><br>Theo dõi trên <a href = 'https://twitter.com/ShinShinMoe '> Twitter </a> để cập nhật những thông tin mới nhất! Bản beta sẽ kết thúc khi game bắt đầu v2.7. "
+	"beta_join": "Tham gia bản thử nghiệm Beta"",
+	"beta_example": "Xem ví dụ",
+	"try_again": "Thử lại?"",
+	"profile": {
+		"closed": "Vui lòng bật \"Hiển thị chi tiết nhân vật\" từ Hồ Sơ trong game để xem chi tiết.",
+		"no_characters": "Không tìm thấy nhân vật nào từ Đội Hình Nhân Vật trong Hồ Sơ của bạn."
+	},
+	"card": {
+		"caption": "Tuỳ chỉnh văn bản",
+		"artSource": "Nguồn ảnh gốc",
+		"art_credit": "Tên hoạ sĩ",
+		"options": "Tuỳ chỉnh",
+		"settings": "Thiết lập thẻ",
+		"export_settings": "Tuỳ chỉnh hiển thị trên ảnh xuất",
+		"build_profile_settings": "Tuỳ chỉnh hồ sơ"
+	},
+	"label": {
+		"is_uid_public": [
+			"Công khai UID của tài khoản này",
+			"Tắt cài đặt này nếu bạn giữ kín UID của mình."
+		],
+		"is_public": [
+			"Chế độ công khai",
+			"Cho phép người khác xem tài khoản này trên hồ sơ công khai của bạn."
+		]
+	}
+}

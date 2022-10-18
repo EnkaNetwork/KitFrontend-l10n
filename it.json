@@ -17,7 +17,21 @@
 	},
 	"card": {
 		"caption": "Testo personalizzato...",
-		"artSource": "Fonte dell' arte",
-		"options": "Opzioni scheda"
+		"artSource": "Fonte dell'opera",
+		"art_credit": "Credito all'artista",
+		"options": "Opzioni scheda",
+		"settings": "Impostazioni della build",
+		"export_settings": "Impostazioni esportazione immagine",
+		"build_profile_settings": "Impostazioni profilo della duild"
+	},
+	"label": {
+		"is_uid_public": [
+			"Mostra il UID di questo account",
+			"Disattiva se vuoi tenere il tuo UID privato."
+		],
+		"is_public": [
+			"Visibile ad altri",
+			"Mostra questo account sul tuo profilo pubblico."
+		]
 	}
 }

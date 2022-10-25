@@ -2,12 +2,12 @@
 	"title": "2.0 新版!<br>原神角色卡。",
 	"subtitle": "从您的角色展示柜中读取数据并立即显示角色卡。",
 	"enter_uid": "输入 UID...",
-	"refresh": "刷新",
-	"in_time": "{{time}} 后",
 	"export_image": "导出图像",
+	"refresh": "刷新",
+	"in_time": "{{time}} 后刷新",
 	"uid_whitelist": "此 UID 需要被列入 beta 白名单以进行测试。",
-	"uid_1": "要加入 Beta 测试，您可以成为 Patreon 的支持者。 <br>您将能够查看您的游戏内角色展示柜并将链接发送给其他人，以便他们查看您的角色卡。",
-	"uid_2": "完整版发布后，支持者将可以测试更多的 Beta 测试功能，例如独特的缩短链接。",
+	"uid_1": "如果你已经参加了公开测试，谢谢你！网站已经回到封闭测试。网站又回到了封闭测试阶段，我可以修复我发现的很多问题。<br />要加入 Beta 测试，您可以成为 Patreon 的支持者。<br>您将能够查看您的游戏内角色展示柜并将链接发送给其他人，以便他们查看您的角色卡。",
+	"uid_2": "完整版发布后，支持者将可以测试更多的 Beta 测试功能，例如独特的短链接。<br><br>请关注<a href='https://twitter.com/ShinShinMoe'>Twitter</a>的更新！测试版应在2.7版开始时结束。",
 	"beta_join": "加入 Beta 测试",
 	"beta_example": "查看示例",
 	"try_again": "再试一次？",
@@ -16,8 +16,22 @@
 		"no_characters": "角色展示柜中没有显示任何角色。"
 	},
 	"card": {
-		"caption": "自定文字...",
-		"artSource": "图来源",
-		"options": "卡片选项"
+		"caption": "自定义文字",
+		"artSource": "图片来源",
+		"art_credit": "艺术家信息",
+		"options": "卡片选项",
+		"settings": "设置",
+		"export_settings": "图片导出设置",
+		"build_profile_settings": "建立配置文件"
+	},
+	"label": {
+		"is_uid_public": [
+			"显示此账号的UID",
+			"如果你想保持你的UID私密，请禁用此功能"
+		],
+		"is_public": [
+			"对他人可见",
+			"在你的公开资料中展示"
+		]
 	}
 }

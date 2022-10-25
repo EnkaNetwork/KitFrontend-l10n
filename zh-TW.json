@@ -2,22 +2,36 @@
 	"title": "2.0 新版!<br>原神角色卡。",
 	"subtitle": "從您的角色展示櫃中讀取數據並立即顯示角色卡。",
 	"enter_uid": "輸入 UID...",
+	"export_image": "導出圖像",
 	"refresh": "刷新",
-	"in_time": "{{time}} 後",
-	"export_image": "輸出圖像",
+	"in_time": "{{time}} 後刷新",
 	"uid_whitelist": "此 UID 需要被列入 beta 白名單以進行測試。",
-	"uid_1": "要加入 Beta 測試，您可以成為 Patreon 的支持者。<br>您將能夠查看您的遊戲內角色展示櫃並將鏈接發送給其他人，以便他們查看您的角色卡。",
-	"uid_2": "完整版發布後，支持者將可以測試更多的 Beta 測試功能，例如獨特的縮短鏈接。",
+	"uid_1": "如果你已經參加了公開測試，謝謝你！網站已經回到封閉測試。網站又回到了封閉測試階段，我可以修復我發現的很多問題。<br />要加入 Beta 測試，您可以成為 Patreon 的支持者。<br>您將能夠查看您的遊戲內角色展示櫃並將鏈接發送給其他人，以便他們查看您的角色卡。",
+	"uid_2": "完整版發布後，支持者將可以測試更多的 Beta 測試功能，例如獨特的短鏈接。<br><br>請關註<a href='https://twitter.com/ShinShinMoe'>Twitter</a>的更新！測試版應在2.7版開始時結束。",
 	"beta_join": "加入 Beta 測試",
 	"beta_example": "查看示例",
 	"try_again": "再試一次？",
 	"profile": {
-		"closed": "請在遊戲中的角色展示櫃中開啟 「顯示角色詳情」 選項以查看詳細信息。",
+		"closed": "請在遊戲中的角色展示櫃中啟用 「顯示角色詳情」 選項以查看詳細信息。",
 		"no_characters": "角色展示櫃中沒有顯示任何角色。"
 	},
 	"card": {
-		"caption": "自定文字...",
-		"artSource": "圖來源",
-		"options": "卡片選項"
+		"caption": "自定義文字",
+		"artSource": "圖片來源",
+		"art_credit": "藝術家信息",
+		"options": "卡片選項",
+		"settings": "設置",
+		"export_settings": "圖片導出設置",
+		"build_profile_settings": "建立配置文件"
+	},
+	"label": {
+		"is_uid_public": [
+			"顯示此賬號的UID",
+			"如果你想保持你的UID私密，請禁用此功能"
+		],
+		"is_public": [
+			"對他人可見",
+			"在你的公開資料中展示"
+		]
 	}
 }

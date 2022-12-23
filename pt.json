@@ -11,18 +11,30 @@
 	"beta_join": "Junte-se à Beta",
 	"beta_example": "Veja um exemplo",
 	"try_again": "Tentar de novo?",
+	"log_in": "Entrar",
 	"profile": {
 		"closed": "Habilite a opção \"Mostrar os detalhes do Personagem\" no seu Perfil do Genshin para ver informações detalhadas",
 		"no_characters": "Não foram encontrados Personagens na sua Exibição de Personagens"
 	},
+	"adv_rank": "AR",
+	"world_level": "WL",
 	"card": {
 		"caption": "Texto personalizado",
-		"artSource": "Fonte da Imagem",
+		"art_add": "Selecione, arraste ou cole uma imagem...",
+		"art_move": "Mover",
+		"artSource": "Fonte da imagem",
 		"art_credit": "Créditos ao artista",
+		"art_delete": "Remover imagem",
 		"options": "Opções do Cartão",
 		"settings": "Configurações da Build",
 		"export_settings": "Configurações de exportação da imagem",
-		"build_profile_settings": "Configurações do perfil da Build"
+		"change_color": "Fundo consistente",
+		"show_uid": "Mostrar UID",
+		"show_user": "Mostrar Usuário",
+		"show_substat": "Distribuição dos atributos secundários",
+		"build_profile_settings": "Configurações do perfil da Build",
+		"redirects": "Integrações",
+		"aspirine": "Abrir na calculadora ASPirine"
 	},
 	"label": {
 		"is_uid_public": [

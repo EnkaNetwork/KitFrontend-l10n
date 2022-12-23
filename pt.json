@@ -12,6 +12,8 @@
 	"beta_example": "Veja um exemplo",
 	"try_again": "Tentar de novo?",
 	"log_in": "Entrar",
+	"email": "E-mail",
+	"password": "Senha",
 	"profile": {
 		"closed": "Habilite a opção \"Mostrar os detalhes do Personagem\" no seu Perfil do Genshin para ver informações detalhadas",
 		"no_characters": "Não foram encontrados Personagens na sua Exibição de Personagens"

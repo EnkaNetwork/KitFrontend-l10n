@@ -12,6 +12,8 @@
 	"beta_example": "See an example",
 	"try_again": "Try again?",
 	"log_in": "Log in",
+	"email": "E-mail",
+	"password": "Password",
 	"profile": {
 		"closed": "Please enable the \"Show Character Details\" option in your Character Showcase in-game to see the details.",
 		"no_characters": "No characters found in the Character Showcase."

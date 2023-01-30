@@ -11,18 +11,32 @@
 	"beta_join": "Join beta",
 	"beta_example": "See an example",
 	"try_again": "Try again?",
+	"log_in": "Log in",
+	"email": "E-mail",
+	"password": "Password",
 	"profile": {
 		"closed": "Please enable the \"Show Character Details\" option in your Character Showcase in-game to see the details.",
 		"no_characters": "No characters found in the Character Showcase."
 	},
+	"adv_rank": "AR",
+	"world_level": "WL",
 	"card": {
 		"caption": "Custom text",
+		"art_add": "Choose, drag or paste image...",
+		"art_move": "Move",
 		"artSource": "Art source",
 		"art_credit": "Artist credit",
+		"art_delete": "Delete image",
 		"options": "Card options",
 		"settings": "Build settings",
 		"export_settings": "Image export settings",
-		"build_profile_settings": "Build profile settings"
+		"change_color": "Adaptative color",
+		"show_uid": "Show UID",
+		"show_user": "Show username",
+		"show_substat": "Substat distribution",
+		"build_profile_settings": "Build profile settings",
+		"redirects": "Integrations",
+		"aspirine": "Open in ASPirine calculator"
 	},
 	"label": {
 		"is_uid_public": [
